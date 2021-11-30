@@ -65,25 +65,25 @@ To achieve this we are building a P2P infrastructure that interacts through
 </table>
 
 ## :computer: Languages, Technologies and Framework 
-<p align="left">
+<p>
 
-<code><img height="80" src="https://www.disenowebwordpress.com/wp-content/uploads/2018/08/animationJS.gif" title="JavaScript"></code>
-  <code><img height="80" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" title="ReactJS"></code>
-<code><img height="80" src="https://cdn.dribbble.com/users/2364/screenshots/2679711/kafka-video.gif" title="Heroku"> </code>
-  <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" title="Solidity"></code>
-  <code><img height="80" src="https://c.tenor.com/7VzBpq5zYR8AAAAd/eth.gif" title="Ethereum"></code>
-   </p>
-  <p align="left">
-   <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap"></code> 
-   <code><img height="80" src="https://cdn.dribbble.com/users/2574702/screenshots/6702374/metamask.gif" title="Ethereum"></code>
-  <code><img height="80" src="https://nx.dev/documentation/latest/shared/jest-logo.png" title="Jest"></code>
-<code><img height="80" src="https://user-images.githubusercontent.com/62543734/116005354-27b2e100-a624-11eb-813b-2e9a28381243.png" title="HTML"></code> 
-<code><img height="80" src="https://user-images.githubusercontent.com/62543734/116005361-2e415880-a624-11eb-836e-a9bcb03ba82d.png" title="CSS"></code>  
-   </p>
-  <p align="left">
-  <code><img height="80" src="https://c.tenor.com/0lTLZKwxmjQAAAAC/octopus-cute.gif" title="React-Testing-Library"></code>
-  <code><img height="80" src="https://i.pinimg.com/originals/74/50/14/74501403f53a5ed702543483addd5e21.gif" title="Firebase"></code>
- </p>
+<img height="120" src="https://www.disenowebwordpress.com/wp-content/uploads/2018/08/animationJS.gif" title="JavaScript">
+  <img height="120" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" title="ReactJS">
+<img height="120" src="https://cdn.dribbble.com/users/2364/screenshots/2679711/kafka-video.gif" title="Heroku"> 
+  <img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" title="Solidity">
+  <img height="120" src="https://c.tenor.com/7VzBpq5zYR8AAAAd/eth.gif" title="Ethereum">
+
+
+   <img height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap"> 
+   <img height="120" src="https://cdn.dribbble.com/users/2574702/screenshots/6702374/metamask.gif" title="Ethereum">
+  <img height="120" src="https://nx.dev/documentation/latest/shared/jest-logo.png" title="Jest">
+<img height="120" src="https://user-images.githubusercontent.com/62543734/116005354-27b2e100-a624-11eb-813b-2e9a28381243.png" title="HTML"> 
+<img height="120" src="https://user-images.githubusercontent.com/62543734/116005361-2e415880-a624-11eb-836e-a9bcb03ba82d.png" title="CSS">  
+
+
+  <img height="120" src="https://c.tenor.com/0lTLZKwxmjQAAAAC/octopus-cute.gif" title="React-Testing-Library">
+  <img height="120" src="https://i.pinimg.com/originals/74/50/14/74501403f53a5ed702543483addd5e21.gif" title="Firebase">
+</p>
  
  ## Video Demo
 
