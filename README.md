@@ -1,3 +1,4 @@
+<div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -83,9 +84,78 @@ To achieve this we are building a P2P infrastructure that interacts through
   <code><img height="80" src="https://c.tenor.com/0lTLZKwxmjQAAAAC/octopus-cute.gif" title="React-Testing-Library"></code>
   <code><img height="80" src="https://i.pinimg.com/originals/74/50/14/74501403f53a5ed702543483addd5e21.gif" title="Firebase"></code>
  </p>
+ 
+ ## Video Demo
+
+https://user-images.githubusercontent.com/55028717/143735437-a929d45c-a495-4ccc-9ce5-e89c459837f3.mp4
+
+
+
+ 
+ ## Metamask not found?
+ ![metamask not found](https://user-images.githubusercontent.com/62543734/143604212-5be55a63-8628-4d07-b10f-a575c771a274.gif)
+
+ 
+## Design
+### Landing Page
+![Home (1)](https://user-images.githubusercontent.com/57039707/143573758-44d0972e-db11-4dc8-8ba3-6d5727034e60.JPG)
+
+
+### User Register
+![Register](https://user-images.githubusercontent.com/57039707/143573949-b75c5c10-55a6-4d7c-af2a-457df9efba63.JPG)
+
+### Login
+
+![Login](https://user-images.githubusercontent.com/57039707/143574274-2c411af4-bc59-468f-a3da-2cd3a4826c36.JPG)
+
+### View Video
+
+![viewVideo2](https://user-images.githubusercontent.com/57039707/143578860-0aaf5b41-eaab-484d-8bfd-123162ad2236.JPG)
+![viewVideo3](https://user-images.githubusercontent.com/57039707/143578932-d3359de5-db57-470f-be3c-118f0d13a4c7.JPG)
+
+
+### Like, Share, Comment and Subscribe
+
+![image](https://user-images.githubusercontent.com/57039707/143575723-55525e1f-dadf-4bc4-bea0-db8a558538e1.png)
+
+
+### Upload Video
+
+![UploadVideo](https://user-images.githubusercontent.com/57039707/143574456-dcda83cc-d850-4c33-aaab-e7fc0bc09032.JPG)
+
+
+### Go Live
+
+![GoLive](https://user-images.githubusercontent.com/57039707/143574519-aebb11b1-079d-4c65-aad4-52722a31483e.JPG)
+![image](https://user-images.githubusercontent.com/57039707/143574622-ebbd51c5-8d56-497f-ba8b-a0e5a489613e.png)
+![image](https://user-images.githubusercontent.com/57039707/143574759-dafc2435-57d4-4f7f-aefe-36ee73fdf2f5.png)
+![image](https://user-images.githubusercontent.com/57039707/143578060-bffbd92d-626f-437f-bb46-31b5e921ebc6.png)
+
+
+
+### Profile
+
+![image](https://user-images.githubusercontent.com/57039707/143575275-74fba285-0b45-4e51-bd6e-87ea8b8091b3.png)
+
+
+### Videos uploaded by user
+
+![image](https://user-images.githubusercontent.com/57039707/143575455-a3b47adb-2cee-4078-bd68-16b8f7359f09.png)
+
+### Edit your details
+
+![image](https://user-images.githubusercontent.com/57039707/143577269-0ef51656-b352-4c4f-914d-b45c91c71b4b.png)
+
+
+
+### About Us
+![image](https://user-images.githubusercontent.com/55028717/143718984-864e529f-b1c0-4a71-94a2-578340b0f43e.JPG)
+
 
 ## License
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/tiwariadarsh/StreamEzy.svg?style=for-the-badge
 [contributors-url]:  https://github.com/tiwariadarsh/StreamEzy/graphs/contributors
