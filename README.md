@@ -1,16 +1,4 @@
 <div id="top"></div>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
-
-
-
- 
-
 <h1 align="center">
   <br>
   <a href="https://github.com/tiwariadarsh/StreamEzy.git"><img src="https://github.com/tiwariadarsh/StreamEzy/blob/main/client/public/logoMain.png" style="width:200px;height:200px;" alt="ArminC AutoExec"></a>
